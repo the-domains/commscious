@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Commscious]]></title>
+        <description><![CDATA[Commscious]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 06 Feb 2016 10:05:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Faster is not better]]></title>
+            <description><![CDATA[<article><h1>Faster is not better</h1><p>Sometimes the shortest way to good results is taking the time without looking for the shortcuts.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5913d9d-e5d4-4486-aa93-4f782cdb8213.png"></article>]]></description>
+            <link>undefinedfaster-is-not-better/index.html</link>
+            <guid isPermaLink="false">d845bed6-e8d6-4a14-a8ae-96cb6a6f8ce3</guid>
+            <pubDate>Sat, 06 Feb 2016 10:04:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
